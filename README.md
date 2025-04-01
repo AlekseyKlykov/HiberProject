@@ -2,8 +2,8 @@
 
 <h4>
 В рамках данного ДЗ была реализвана бд MySql по схеме https://github.com/Kichmarevitmo/Lesson-11.-Part-1.-Homework?tab=readme-ov-file#mybatis (Вариант 0. при создании ID использовался тип int)<br>
-Были реализованы функции работы с БД в рамках задания https://github.com/Kichmarevitmo/Lesson-11.-Part-1.-Homework?tab=readme-ov-file#mybatis (Вариант 0)<br>
-Замеры добавления записей в таблицу Pets тремя разными способами:<br>
+Были реализованы функции работы с БД в рамках задания https://github.com/Kichmarevitmo/Lesson-11.-Part-1.-Homework?tab=readme-ov-file#mybatis<br>
+Замеры добавления записей в таблицу Pets c помощью трех инструментов:<br>
 MyBatis 1107 мс<br>
 Hibernate 2799 мс<br>
 jdbc 744 мс<br>
