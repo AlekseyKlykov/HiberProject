@@ -10,6 +10,7 @@ jdbc 744 мс<br>
 Замеры получения всех записей из таблицы Pets(на момент замера в таблице было 705 записей)
 MyBatis 594 мс<br>
 Hibernate 1642 мс<br>
-jdbc 443 мс<br> </h4>
+jdbc 443 мс<br> 
 
 Для исталяции MySql в Docker необходимо выполнить команду  docker run --name PrjHibernate -p 3306:3306 -d alekseyklykov/prjmysqlforhibernate
+</h4>
